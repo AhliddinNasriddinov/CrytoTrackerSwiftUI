@@ -36,6 +36,7 @@
 		4F9A0930290FF2CD00F9C91E /* HomeStatisticView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4F9A092F290FF2CD00F9C91E /* HomeStatisticView.swift */; };
 		4FA0D47F2909460A0007EAC2 /* HomeViewModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4FA0D47E2909460A0007EAC2 /* HomeViewModel.swift */; };
 		4FA0D48229095C9D0007EAC2 /* CoinDataServices.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4FA0D48129095C9D0007EAC2 /* CoinDataServices.swift */; };
+		4FA13992291AA07C00B00A89 /* ChartView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4FA13991291AA07C00B00A89 /* ChartView.swift */; };
 		4FA3B537290697A40083EA7C /* CircleButtonAnimationView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4FA3B536290697A40083EA7C /* CircleButtonAnimationView.swift */; };
 		4FA3B53A2906B23A0083EA7C /* CoinModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4FA3B5392906B23A0083EA7C /* CoinModel.swift */; };
 		4FA9786F2910F06D00A11CE7 /* MarketDataModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4FA9786E2910F06D00A11CE7 /* MarketDataModel.swift */; };
@@ -76,6 +77,7 @@
 		4F9A092F290FF2CD00F9C91E /* HomeStatisticView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HomeStatisticView.swift; sourceTree = "<group>"; };
 		4FA0D47E2909460A0007EAC2 /* HomeViewModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HomeViewModel.swift; sourceTree = "<group>"; };
 		4FA0D48129095C9D0007EAC2 /* CoinDataServices.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CoinDataServices.swift; sourceTree = "<group>"; };
+		4FA13991291AA07C00B00A89 /* ChartView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ChartView.swift; sourceTree = "<group>"; };
 		4FA3B536290697A40083EA7C /* CircleButtonAnimationView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CircleButtonAnimationView.swift; sourceTree = "<group>"; };
 		4FA3B5392906B23A0083EA7C /* CoinModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CoinModel.swift; sourceTree = "<group>"; };
 		4FA9786E2910F06D00A11CE7 /* MarketDataModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MarketDataModel.swift; sourceTree = "<group>"; };
@@ -239,6 +241,7 @@
 			isa = PBXGroup;
 			children = (
 				4F97F22C291917F8005F74E8 /* DetailView.swift */,
+				4FA13991291AA07C00B00A89 /* ChartView.swift */,
 			);
 			path = View;
 			sourceTree = "<group>";
@@ -348,6 +351,7 @@
 				4F1F03E52914081D002DBE91 /* PortfolioContainer.xcdatamodeld in Sources */,
 				4F9A0930290FF2CD00F9C91E /* HomeStatisticView.swift in Sources */,
 				4F9A092C290FA03100F9C91E /* StatisticModel.swift in Sources */,
+				4FA13992291AA07C00B00A89 /* ChartView.swift in Sources */,
 				4FD66FD42907E4C0004485AB /* CoinRowView.swift in Sources */,
 				4F1F03E029138407002DBE91 /* XMarkButton.swift in Sources */,
 				4FA0D47F2909460A0007EAC2 /* HomeViewModel.swift in Sources */,
